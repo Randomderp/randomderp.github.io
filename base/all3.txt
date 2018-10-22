@@ -1,0 +1,15 @@
+</article>
+        <nav>
+            <a href="/">Home</a> |
+            <a href="/about/">About</a> |
+            <a href="/dream/">Dream</a> |
+            <a href="/members/">Members</a> |
+            <a href="/videos/">Videos</a> |
+            <a href="/employment/">Employment</a> |
+            <a href="/faq/">FAQ</a>
+            <br />CopyrightÂ? 2017 Randomderp. All Rights Reserved.<br />
+        </nav>
+    </main>
+</body>
+
+</html>
