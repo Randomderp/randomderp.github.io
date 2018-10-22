@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html amp lang="en"> 
-    <head>
+<html amp lang="en">
+
+<head>
         <meta charset="UTF-8" />
-        <link rel="canonical" href="index.html"/>
+        <link rel="canonical" href="index.html" />
         <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
         <link rel="icon" type="image/x-icon" href="/favicon.ico" />
         <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
         <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-        <script async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js"></script>
+        <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
         <title>
